@@ -29,7 +29,7 @@ body {
 {
     background: #fff;
     outline: 6px solid #fff;
-    border: 3px solid #ff4200;
+    border: 3px solid #1aff00;
     position: relative;
     top: 50%;
     max-width: 626px;
@@ -51,7 +51,7 @@ body {
 {
     color: #fff;
     display: inline-block;
-    background: #ff4200;
+    background: #1aff00;
     padding: 13px 40px;
     border-radius: 30px;
     font-size: 28px;
